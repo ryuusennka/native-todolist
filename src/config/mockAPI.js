@@ -1,0 +1,1 @@
+export const notesAPI = "http://5b2b683547a7720014ca848d.mockapi.io/api";
