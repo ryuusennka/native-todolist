@@ -1,0 +1,1 @@
+export const notesAPI = "http://someapi/api";
